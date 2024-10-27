@@ -11,7 +11,7 @@
 | **Tuesday**    | Algebra 1, R Programming | 6:00 PM - 8:00 PM  |
 | **Wednesday**  | Statistics, Crypto  | 6:00 PM - 8:00 PM  |
 | **Thursday**   | Algebra 1, Statistics    | 6:00 PM - 8:00 PM  |
-| **Friday**     | R Programming, Math | 10:00 AM - 12:00 PM |
+| **Friday**     | R Programming, Algebra 1 | 10:00 AM - 12:00 PM |
 
 ## Subjects Overview
 
