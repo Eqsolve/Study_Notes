@@ -26,14 +26,4 @@ This table tracks attendance for each subject every day, helping you keep a reco
 
 > **Note**: Replace `[ ]` with `[x]` to mark a completed session.
 
----
 
-## Instructions
-
-- Each day, tick `[x]` the subjects you have studied.
-- Review this table weekly to track your consistency.
-- You can extend this table by adding rows for each new date as needed.
-  
----
-
-This tracker is designed to help you stay consistent with your studies by providing a quick, at-a-glance view of your progress for each subject.
