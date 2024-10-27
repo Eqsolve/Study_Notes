@@ -9,7 +9,7 @@ This table tracks attendance for each subject every day, helping you keep a reco
 | Date         | Statistics | Algebra 1 | Crypto | R Programming |
 |--------------|------------|------|--------|---------------|
 | **Oct 26, 2024 (Sat)** | [ ] | [ ] |   |   |
-| **Oct 27, 2024 (Sun)** |   | [ ] | [ ] |   |
+| **Oct 27, 2024 (Sun)** |   | [ x ] | [ x ] |   |
 | **Oct 30, 2024 (Mon)** | [ ] |   |   | [ ] |
 | **Oct 31, 2024 (Tue)** |   | [ ] |   | [ ] |
 | **Oct 1, 2024 (Wed)** | [ ] |   | [ ] |   |
