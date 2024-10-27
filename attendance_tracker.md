@@ -6,7 +6,7 @@ This table tracks attendance for each subject every day, helping you keep a reco
 
 ## October 27, 2024 - January 1, 2025
 
-| Date         | Statistics | Math | Crypto | R Programming |
+| Date         | Statistics | Algebra | Crypto | R Programming |
 |--------------|------------|------|--------|---------------|
 | **Oct 26, 2024 (Sat)** | [ ] | [ ] |   |   |
 | **Oct 27, 2024 (Sun)** |   | [ ] | [ ] |   |
