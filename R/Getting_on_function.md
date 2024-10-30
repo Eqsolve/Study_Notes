@@ -2,7 +2,7 @@
 ---
 - [help](#help)
 - [example](#example)
-
+---
 
   ## help
 * Use ```help``` to display documenation of a function
